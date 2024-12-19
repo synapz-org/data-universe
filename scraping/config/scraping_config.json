@@ -1,7 +1,7 @@
 {
     "scraper_configs": [
         {
-            "scraper_id": "harshmaur/reddit-scraper-pro",
+            "scraper_id": "Reddit.custom",
             "cadence_seconds": 60,
             "labels_to_scrape": [
                 {

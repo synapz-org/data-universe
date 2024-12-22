@@ -1,0 +1,4 @@
+[submodule "gravity"]
+	path = gravity
+	url = https://github.com/macrocosm-os/gravity.git
+	branch = testnet

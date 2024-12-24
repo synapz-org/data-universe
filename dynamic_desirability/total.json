@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "source_name": "reddit",
+        "label_weights": {
+            "r/Bittensor_": 0.9,
+            "r/MachineLearning": 0.8,
+            "r/artificial": 0.7
+        }
+    },
+    {
+        "source_name": "x",
+        "label_weights": {
+            "#AI": 0.9,
+            "#MachineLearning": 0.8,
+            "#Bittensor": 0.7
+        }
+    }
+]
+
